@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: darkorange;
+    color: indigo;
+}
+#pic{
+    width: 400px;
+    height: 400px;
+
+}
+#change_button{
+    background-color:darkgoldenrod;
+    color:indigo;
+    border-radius: 30px;
+    border-width: 0px;
+}
